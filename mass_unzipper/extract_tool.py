@@ -79,12 +79,6 @@ def main(args):
                 else:
                     print(file_name, "was extracted.")
 
-def fn_zip(filename):
-    pass
-
-def fn_7z(filename):
-    pass
-
 
 if __name__ == "__main__":
    
